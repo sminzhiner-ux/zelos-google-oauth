@@ -13,11 +13,11 @@ The application may access Gmail messages and labels; Calendar events; Drive fil
 
 ## Processing and storage
 
-OAuth credentials are stored in the owner's private Hermes installation, not on this website. Conversations, task results, and logs may be retained in that installation. Content needed to answer a request may be sent to the AI model provider and messaging service configured by the owner. This GitHub Pages website does not receive Google account data.
+OAuth credentials are stored in the owner's private installation, not on this website. Conversations, task results, and logs may be retained in that installation. Content needed to answer a request may be sent to the AI model provider and messaging service configured by the owner. This GitHub Pages website does not receive Google account data.
 
 ## Sharing and control
 
-The application does not sell Google user data or use it for advertising. The owner can revoke the application's Google access in Google Account settings and remove locally stored data from the Hermes installation.
+The application does not sell Google user data or use it for advertising. The owner can revoke the application's Google access in Google Account settings and remove locally stored data from the private installation.
 
 ## Contact
 
